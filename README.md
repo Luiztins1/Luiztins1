@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Me chamo Luiz Gabriel e tenho 20. Nascido no Distrito Federal e criado no Goiás. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco está voltado no ecossistema **Java (Spring Boot)** e **C++**. Sou fascinado em entender como tecnologias funcionam por "de baixo dos panos" e como extrair o máximo de performance de um software. 
+Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no Goiás. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco está voltado no ecossistema **Java (Spring Boot)** e **C++**. Sou fascinado em entender como tecnologias funcionam por "de baixo dos panos" e como extrair o máximo de performance de um software. 
 
 * 🛠️ **Foco Atual:** Backend, Sistemas de Baixo Nível e Arquitetura de Software.
 * 🎯 **Objetivo:** Me tornar especialista em Java, C++ e Arquitetura de Software.
