@@ -21,15 +21,14 @@
 ---
 
 ### 🚀 Sobre Mim
-Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no Goiás. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco está voltado no ecossistema **Java (Spring Boot)** e **C++**. Sou fascinado em entender como tecnologias funcionam por "de baixo dos panos" e como extrair o máximo de performance de um software. 
+Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no Goiás. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco está voltado no ecossistema **Java (Spring Boot)**. Sou fascinado em entender como tecnologias funcionam por "de baixo dos panos" e como extrair o máximo de performance de um software. 
 
 * 🛠️ **Foco Atual:** Backend, Sistemas de Baixo Nível e Arquitetura de Software.
-* 🎯 **Objetivo:** Me tornar especialista em Java, C++ e Arquitetura de Software.
+* 🎯 **Objetivo:** Me tornar especialista em Java e Arquitetura de Software.
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
