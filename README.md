@@ -50,9 +50,12 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       </p>
+        <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+      </p>
     </td>
     <td>
-      <strong>Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House..
+      <strong>📝 Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House..
       <br><br>
       ⭐ <b>Status:</b> Em desenvolvimento ativo.
     </td>
