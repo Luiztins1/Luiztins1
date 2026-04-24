@@ -41,3 +41,20 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiztins1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiztins1&layout=compact&langs_count=7&theme=dark" />
 </p>
+
+# 🚀 Projetos Destaques
+### 🎮 [Counter Strike Match-Making](https://github.com/Luiztins1/CS-1.6-Matchmaking)
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      </p>
+    </td>
+    <td>
+      <strong>Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House..
+      <br><br>
+      ⭐ <b>Status:</b> Em desenvolvimento ativo.
+    </td>
+  </tr>
+</table>
