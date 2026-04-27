@@ -27,9 +27,9 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
 * 🎯 **Objetivo:** Me tornar especialista em Java e Arquitetura de Software.
 
 ### 🛠️ Tecnologias e Ferramentas
-| <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=spring" width="45"> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"> | <img src="https://skillicons.dev/icons?i=postgres" width="45"> | <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=git" width="45"> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Java** | **Spring Boot** | **Hibernate** | **Postgres** | **MySQL** | **Git** |
+| <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=spring" width="45"> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"> | <img src="https://skillicons.dev/icons?i=postgres" width="45"> | <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=docker" width="45"> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Java** | **Spring Boot** | **Hibernate** | **Postgres** | **MySQL** | **Git** | **Docker** |
 
 ### 📈 Estatísticas do GitHub
 <table align="center">
