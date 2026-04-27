@@ -1,4 +1,4 @@
-## 👨‍💻 Luiz Gabriel Martins
+# 👨‍💻 Luiz Gabriel Martins
 **`Desenvolvedor Backend Java | Estudante de ADS`**
 
 <p align="left">
@@ -27,37 +27,37 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
 * 🎯 **Objetivo:** Me tornar especialista em Java e Arquitetura de Software.
 
 ### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=spring" width="45"> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"> | <img src="https://skillicons.dev/icons?i=postgres" width="45"> | <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=git" width="45"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Java** | **Spring** | **Hibernate** | **Postgres** | **MySQL** | **Git** |
 
 ### 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiztins1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiztins1&layout=compact&langs_count=7&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" border="0">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiztins1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center" border="0">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiztins1&layout=compact&langs_count=7&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 # 🚀 Projetos Destaques
 ### 🎮 [Counter Strike Match-Making](https://github.com/Luiztins1/CS-1.6-Matchmaking)
 <table align="center">
   <tr>
-    <td>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </p>
-        <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      </p>
+    <td align="center" width="150px">
+      <img src="https://skillicons.dev/icons?i=java,spring" /><br>
+      <img src="https://skillicons.dev/icons?i=postgres,hibernate" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,git" />
     </td>
     <td>
-      <strong>📝 Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House..
+      <strong>📝 Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House.
       <br><br>
       ⭐ <b>Status:</b> Em desenvolvimento ativo.
+      <br>
+      🚀 <b>Foco Atual:</b> .
     </td>
   </tr>
 </table>
