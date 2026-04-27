@@ -57,7 +57,6 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
       <br><br>
       ⭐ <b>Status:</b> Em desenvolvimento ativo.
       <br>
-      🚀 <b>Foco Atual:</b> .
     </td>
   </tr>
 </table>
