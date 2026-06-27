@@ -55,7 +55,24 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
     <td>
       <strong>📝 Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House.
       <br><br>
-      ⭐ <b>Status:</b> Em desenvolvimento ativo.
+      ⭐ <b>Status:</b> <code>🟧 Em desenvolvimento ativo.</code>
+      <br>
+    </td>
+  </tr>
+</table>
+
+### 🏋️‍♂️ [System Gym API](https://github.com/Luiztins1/system-gym)
+<table align="center">
+  <tr>
+    <td align="center" width="150px">
+      <img src="https://skillicons.dev/icons?i=java,spring" /><br>
+      <img src="https://skillicons.dev/icons?i=postgres,hibernate" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,git" />
+    </td>
+    <td>
+      <strong>📝 Descrição:</strong> Essa API foi desenvolvida como foco em atender demandas básicas de uma academia, como registro de alunos, matriculas e planos.
+      <br><br>
+      ⭐ <b>Status:</b> <code>🟩 Concluído.</code>
       <br>
     </td>
   </tr>
