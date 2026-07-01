@@ -44,6 +44,7 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
 </table>
 
 # 🚀 Projetos Destaques
+
 ### 🎮 [Counter Strike Match-Making](https://github.com/Luiztins1/CS-1.6-Matchmaking)
 <table align="center">
   <tr>
@@ -55,8 +56,23 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
     <td>
       <strong>📝 Descrição:</strong> Esse projeto moderniza a experiência do CS 1.6, trazendo funcionalidades de plataformas modernas, mas com a essência de Lan House.
       <br><br>
-      ⭐ <b>Status:</b> <code>🟧 Em desenvolvimento ativo.</code>
-      <br>
+      <strong>⭐ Status:</strong> <kbd>🟧 Em desenvolvimento ativo.</kbd>
+    </td>
+  </tr>
+</table>
+
+### 🚘 [System Parking Lot API](https://github.com/Luiztins1/parking-system.git)
+<table align="center">
+  <tr>
+    <td align="center" width="150px">
+      <img src="https://skillicons.dev/icons?i=java,spring" /><br>
+      <img src="https://skillicons.dev/icons?i=postgres,hibernate" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,git" />
+    </td>
+    <td>
+      <strong>📝 Descrição:</strong> Essa API foi desenvolvida para criação e controle de Tickets de Estacionamento.
+      <br><br>
+      <strong>⭐ Status:</strong> <kbd>🟩 Concluído.</kbd>
     </td>
   </tr>
 </table>
@@ -72,8 +88,7 @@ Me chamo Luiz Gabriel e tenho 20 anos. Nascido no Distrito Federal e criado no G
     <td>
       <strong>📝 Descrição:</strong> Essa API foi desenvolvida como foco em atender demandas básicas de uma academia, como registro de alunos, matriculas e planos.
       <br><br>
-      ⭐ <b>Status:</b> <code>🟩 Concluído.</code>
-      <br>
+      <strong>⭐ Status:</strong> <kbd>🟩 Concluído.</kbd>
     </td>
   </tr>
 </table>
