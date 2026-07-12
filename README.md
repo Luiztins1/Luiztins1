@@ -27,13 +27,12 @@
 
 Me chamo **Luiz Gabriel**, tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Meu foco é desenvolvimento **Backend com Java e Spring Boot**, sempre buscando entender como as tecnologias funcionam internamente e como construir aplicações escaláveis, performáticas e bem arquitetadas.
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco está voltado no ecossistema **Java(Spring Boot)**. Sou fascinado em entender como tecnologias funcionam por "de baixo dos panos" e como extrair o máximo de performance de um software. 
 
 - 🛠️ Foco em Backend
 - ⚙️ Arquitetura de Software
 - 🚀 APIs REST
 - 💾 Bancos de Dados Relacionais
-- 📚 Aprendizado contínuo
 
 ---
 
