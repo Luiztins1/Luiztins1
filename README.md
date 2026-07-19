@@ -50,10 +50,9 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiztins1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![GitHub Stats](https://ghstats.dev/api/card?username=Luiztins1&theme=dracula)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiztins1&layout=compact&theme=tokyonight"/>
-
+<img src="https://ghstats.dev/api/langs?username=Luiztins1&theme=dracula&border_radius=23.5&max_langs=6" alt="Top Languages" />
 </p>
 
 ---
