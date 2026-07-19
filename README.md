@@ -65,9 +65,9 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 
 > **📝 Descrição**
 >
-> API desenvolvida para construção de um agregador de músicas.
+> API desenvolvida para construção de um agregador de albums.
 
-**🟧 Status:** Em desenvolvimento ativo.
+**🟩 Status:** Concluído.
 
 ---
 
