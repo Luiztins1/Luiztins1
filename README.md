@@ -40,7 +40,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,git"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,git,postman,maven"/>
 
 </p>
 
@@ -59,16 +59,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 
 # 🚀 Projetos Destaques
 
-## 🎶 [Mixs](https://github.com/Luiztins1/Mixs)
-
-![Skills](https://skillicons.dev/icons?i=java,spring,postgres,hibernate,docker,git)
-
-> **📝 Descrição**
->
-> API desenvolvida para construção de um agregador de albums.
-
-**🟩 Status:** Concluído.
-
 ---
 
 ## 🎮 [Counter Strike Match-Making](https://github.com/Luiztins1/CS-1.6-Matchmaking)
@@ -79,7 +69,19 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 >
 > Projeto que moderniza a experiência do Counter Strike 1.6, trazendo recursos inspirados nas plataformas atuais mantendo a essência das LAN Houses.
 
-**🟥 Status:** Em pausa.
+**🟧​ Status:** Em desenvolvimento ativo.
+
+---
+
+## 🎶 [Mixs](https://github.com/Luiztins1/Mixs)
+
+![Skills](https://skillicons.dev/icons?i=java,spring,postgres,hibernate,docker,git)
+
+> **📝 Descrição**
+>
+> API desenvolvida para construção de um agregador de albums.
+
+**🟩 Status:** Concluído.
 
 ---
 
